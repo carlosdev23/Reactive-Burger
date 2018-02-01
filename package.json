@@ -1,7 +1,7 @@
 {
   "name": "Reactive-Burger",
   "version": "1.0.0",
-  "author": "Dzenis-H"
+  "author": "Dzenis-H",
   "private": true,
   "dependencies": {
     "autoprefixer": "7.1.2",
