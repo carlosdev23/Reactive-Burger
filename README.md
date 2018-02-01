@@ -1,4 +1,4 @@
 # Reactive-Burger
 This was build by using React 16 + Redux ... create-react-app to be precise :)
-<img src="https://github.com/BiggaHD/Reactive-Burger/blob/master/create-react-app.svg" width="770%" height="500">
+<img src="https://github.com/BiggaHD/Reactive-Burger/blob/master/create-react-app.svg" width="330%" height="auto">
 
