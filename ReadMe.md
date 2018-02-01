@@ -1,6 +1,12 @@
-> This is work in progress, but still is a fully functional app. Check it out ;)
+> ## This is work in progress, but still it's a functional app. Check it out ...
 
-# How to use the this code:
+> ### To set up your local environment take a quick look below ;)
 
-> 1) Run "npm install" in the extracted folder
-> 2) Run "npm start" to view the project
+<a href="https://olivermak.es/">
+  <img src="https://github.com/BiggaHD/Reactive-Burger/blob/master/create-react-app.svg">
+</a>
+
+### How to use the this code:
+
+> 1) Run "npm install" in the extracted folder on your desktop.
+> 2) Run "npm start" and go to localhost:3000 to view the app.
